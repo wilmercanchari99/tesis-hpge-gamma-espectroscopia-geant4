@@ -1,0 +1,3 @@
+/run/initialize
+/vis/disable  # Desactiva la visualización
+/run/beamOn 500000  # Número de eventos
